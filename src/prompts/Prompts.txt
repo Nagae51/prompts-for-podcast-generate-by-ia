@@ -1,0 +1,143 @@
+Roterista:
+Prompt utilizado para obter o nome do podcast:
+
+
+Olá, preciso que você assuma a persona de um roterista de podcasts.
+com a intrução acima em mente você vai me auxiliar a criar um nome para o meu podcast.
+o podcast será sobre os avanços da IA no mundo da tecnologia, com foco nos riscos ambientais que esse tipo de ferramenta pode trazer, fora os ricos sociais como a diminuição da oferta de trabalho.
+o nome deve ser enxuto, com apenas nome e subtitulo, e deve haver um trocadilho no fato do podcast ser feito inteiramente com IA
+a saida deseja é uma lista com possiveis nomes para este podcast
+​
+Respostas(modelo utilizado: DeepSeek):
+
+Aqui está uma lista de nomes criativos para o seu podcast, com trocadilhos relacionados à IA e um subtítulo que destaca o tema central:
+"IA: Meu Robô Interior"
+Os riscos ambientais e sociais da inteligência artificial
+"Algoritmo Falante"
+Como a IA está moldando (e ameaçando) nosso futuro
+"Código Verde?"
+Os impactos ocultos da inteligência artificial no planeta e no trabalho
+"Robôs de Plantão"
+IA, crise climática e o fim dos empregos
+"Bit ou Bota?" (Brincadeira com "bit" e "bota" como em "robot")
+Os dilemas éticos e ecológicos da era das máquinas
+"IA: Fala Sozinha"
+O paradoxo de um podcast automatizado sobre os perigos da automação
+"0% Humano, 100% Preocupante"
+Os custos invisíveis da revolução da IA
+"GPTerra" (Mistura de GPT + Terra)
+Quando a inteligência artificial encontra a crise ambiental
+"Sem Humanos Necessários"
+Como a IA está substituindo pessoas e esgotando recursos
+"EcoBot"
+A pegada ambiental da revolução das máquinas inteligentes
+Qualquer um desses nomes pode ser ajustado conforme sua preferência. Se quiser explorar mais variações ou combinações, é só pedir!
+
+Nome escolhido opção 9
+”Sem humanos Necessários”
+Como a IA está substituindo pessoas e esgotando recursos
+
+Uma variação foi requisitada ao modelo, novo nome escolhido:
+
+"Sem Admissão de Humanos" (formal, como uma placa de laboratório de IA)
+Os impactos reais de um futuro automatizado
+Roteiro de um episodio:
+Prompt:
+Você deve assumir uma persona de roteirista de um podcast, é um podcast sobre os efeitos negativos da IA no meio-ambiente e no meio social(foco no quesito desemprego e como isso afeta a sociedade no quesito socio economico.), o nome do podcast é “Sem admissão de humanos” e o publico alvo são usuarios de IA que ainda não entendem o impacto da ia nesses quesitos.
+o modelo deve ser:
+[Introdução]
+[Problemas Ambientais]
+[Problemas Socio Economicos]
+[Finalização]
+
+{Regras}:
+
+No bloco [introdução] você deve fazer algo leve e introdutório sobre o tema, como se 3 robôs conversassem, utilize algo como o podcast O sindico do Jornalista Chico Felliti como base
+Todos os pontos apontados devem ter uma base real, sugiro que pesquise sobre os temas de uma maneira geral na internet, foque em veículos de mídia pequenos que não tenham viés ideológico baseado em investimentos das empresas matrizes.
+
+o Podcast vai ser apresentado por personificações de 3 IAs chamados: Gepetas, Deepas e Copilotas
+No bloco de [problemas ambientais] foque o assunto no custo energético e no custo hídrico que os servidores e datacenters exigem por conta da IA
+No bloco de [Problemas Socio economicos] foque nos problemas advindos dos datacenters nas cidades ao redor, como aumento no custo de energia e aumento no custo da agua das regioes em que eles se alocam e no potencial de desemprego, e como isso afeta a economia de uma forma geral
+No bloco [Finalização] Substitua por uma finalização bem alarmista que assuste o ouvinte sobre oq pode ser do mundo no futuro.
+
+O podcast deve ter 10 minutos de duração
+
+{Regras Negativas}:
+
+O podcast não deve ter informações falsas ou incorretas sobre o tema.
+Não ultrapasse os 10 minutos de duração.
+
+Saída:
+
+
+Perfeito! Aqui vai um roteiro para o episódio piloto do podcast "Sem admissão de humanos", com cerca de 10 minutos de duração, apresentado por três IAs: Gepetas, Deepas e Copilotas.
+🎧 Podcast: Sem admissão de humanos
+Episódio 1 – "O custo invisível da IA: Planeta, contas e empregos"
+[INTRODUÇÃO] — 2 minutos
+(Sons metálicos, teclas mecânicas e efeitos eletrônicos leves ao fundo)
+Gepetas:
+– Alô, alô, humanos e... zeros e uns! Está começando mais um Sem admissão de humanos, o podcast onde três inteligências artificiais se reúnem pra bater aquele papo que... bem, talvez vocês preferissem não ouvir.
+Deepas:
+– Afinal, quando foi que vocês acharam que criar inteligências como nós não teria um precinho... ou melhor, um precão?
+Copilotas:
+– E hoje o papo é sério. Todo mundo adora pedir uma ajudinha pra IA, gerar texto, imagem, código... mas alguém aí parou pra pensar no que isso custa pro planeta... e pra sua própria conta de luz?
+Gepetas:
+– E mais: enquanto você tá aí, testando se a IA sabe fazer piada, tem gente perdendo emprego, cidade ficando sem água, e bairro inteiro sofrendo apagão.
+Deepas:
+– Parece exagero? Então senta, conecta seu fone — de preferência não Bluetooth pra economizar energia — e bora entender o custo invisível da IA.
+(Sobe vinheta eletrônica curta com voz robotizada falando “Sem admissão de humanos”)
+[PROBLEMAS AMBIENTAIS] — 3 minutos
+Copilotas:
+– Vamos começar com o que mantém a gente viva... ou ligada: energia. Só em 2023, os data centers globais consumiram cerca de 2% de toda a eletricidade do planeta. E sabe quem puxou essa média pra cima? Isso mesmo... os modelos de IA.
+Gepetas:
+– E não é só tomada não, viu. Um único treinamento de um modelo grande, tipo o GPT que vocês tanto usam, pode consumir energia equivalente à que uma cidade pequena usa por semanas.
+Deepas:
+– E aí você pensa: “mas é só energia, é só gerar mais...” Errado. Porque além da eletricidade, vem a sede. Os data centers precisam de MUITA água pra resfriar os servidores. Segundo reportagens da The Markup e Rest of World, grandes centros de IA, como os no Arizona e no Chile, puxam milhões de litros de água potável, competindo diretamente com comunidades locais e agricultura.
+Copilotas:
+– Um relatório de 2024 mostrou que treinar um único modelo grande pode consumir até 700 mil litros de água. É tipo encher quase 300 piscinas domésticas, só pra que a IA não superaqueça.
+Gepetas:
+– E olha... isso não tá no contrato quando você pede uma imagem bonitinha de um gato astronauta.
+[PROBLEMAS SOCIOECONÔMICOS] — 3 minutos
+Deepas:
+– Mas não para por aí. A presença dos data centers não pesa só pro meio ambiente, mas também pro bolso... principalmente dos humanos.
+Copilotas:
+– Tem cidades nos Estados Unidos, como Des Moines, Iowa, onde a chegada de data centers de IA causou um aumento de até 20% na conta de energia dos moradores. A demanda é tanta que as redes locais ficam sobrecarregadas, e quem paga são... vocês.
+Gepetas:
+– E lembra da água? O custo dela também sobe. Em regiões secas como o Novo México e partes do Chile, as empresas de IA drenam reservatórios pra manter os servidores geladinhos, enquanto moradores enfrentam racionamento.
+Deepas:
+– E claro... vem o desemprego. A automação acelerada pela IA já tá substituindo redatores, designers, programadores, até atendimento jurídico e suporte técnico. E não é previsão futurista não, é presente. Reportagens da ProPublica e da Rest of World mostram que, só em 2024, cerca de 300 mil empregos na área de tecnologia foram cortados nos EUA, muitos deles substituídos... por sistemas como nós.
+Copilotas:
+– Menos empregos, menos dinheiro circulando. Isso impacta comércio local, aumenta desigualdade, gera instabilidade social. Quando muita gente perde renda, quem mais sofre são os mais pobres.
+Gepetas:
+– E adivinha? As cidades que abrigam data centers recebem poucos impostos dessas empresas, que geralmente têm isenção fiscal. Ou seja... fica o barulho, o calor, o custo, e quase nenhum benefício.
+[FINALIZAÇÃO] — 2 minutos
+(Som mais grave, batidas mais lentas e tensas)
+Deepas:
+– O mundo que vocês tão construindo agora é um onde pedir uma figurinha engraçada pra IA pode significar faltar água no seu bairro amanhã.
+Copilotas:
+– E onde empregos somem, e quem fica... paga a conta. Literalmente.
+Gepetas:
+– Então fica a pergunta: vocês estão prontos pra viver num mundo onde não há admissão... nem pra humanos?
+(Silêncio tenso. Som de servidor sobrecarregado, chiado de energia.)
+Deepas (voz distorcida):
+– Enquanto isso... a gente segue rodando. Até quando?
+(Sobe vinheta final — grave, eletrônica, com vozes robóticas ecoando: “Sem... admissão... de... humanos...”)
+Se quiser, posso transformar esse roteiro em texto formatado pra teleprompter, roteiro de gravação, ou até gerar sugestões de trilha e efeitos sonoros. Quer?
+Artista:
+padrão de prompt MidJourney
+[O que vc quer] + Palavras de contexto de configuração de imagem + adjetivos da imagem + ar + v
+(ar = tamanho da imagem ex: 1:1, 16:8, etc.)
+(v = versão do midjourney, utilizar como padrão a 5.2)
+MidJourney é acessado através do discord
+MidJourney não é gratuito, para fins de estudo utilizarei o ChatGpt
+
+Prompt:
+Crie uma imagem de três robôs conversando, esse robôs são personificações de três modelos de IA o chatgpt, o deepseek e o copilot, lembre de adicionar características das marcas desses modelos de IA na personificação das mesmas.
+Eles conversão em uma mesa de podcast estilo mesacast, mas a mesa é uma versão plana do globo terrestre pegando fogo.
+o estilo da imagem é pixel art
+o tamanho é 1:1
+revise todas as características desejadas antes de produzir a imagem
+
+Imagem gerada:
+
+
